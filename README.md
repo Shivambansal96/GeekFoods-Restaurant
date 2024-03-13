@@ -1,1 +1,1 @@
-[👋Click Me] - Wesbite is live.(https://sbgeekfoods-restaurant.netlify.app/)
+ Website is live -  [👋Click Me](https://sbgeekfoods-restaurant.netlify.app/)
